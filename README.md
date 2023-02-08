@@ -1,2 +1,2 @@
 # KarateKido-clicker
-Clicker for achieve 288 points
+Clicker for Telegram game KarateKido. Can achieve up to 288 points
